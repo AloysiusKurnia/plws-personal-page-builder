@@ -1,0 +1,4 @@
+{
+    "$schema": "../../../schemata/blog-settings.schema.json",
+    "title": "I've build a website!"
+}

@@ -1,0 +1,14 @@
+{
+	"type": "commonjs",
+	"scripts": {
+		"start": "node meta-build.js && node node-dist/bundle.js"
+	},
+	"devDependencies": {
+		"@types/node": "^18.15.11",
+		"@types/pug": "^2.0.6",
+		"@types/showdown": "^2.0.0",
+		"esbuild": "^0.17.15",
+		"pug": "^3.0.2",
+		"showdown": "^2.1.0"
+	}
+}
